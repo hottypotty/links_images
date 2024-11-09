@@ -1,0 +1,17 @@
+[33mcommit b841312d2c229fca99c95cc0ca980dfebd5b3fc5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: hottypotty_dev <93479007+hottypotty@users.noreply.github.com.>
+Date:   Sat Nov 9 07:06:48 2024 +0800
+
+    Added files like dog.jpg and about
+
+[33mcommit 055e19a7085a9d4774e658afd5526e3734509c88[m
+Author: hottypotty_dev <93479007+hottypotty@users.noreply.github.com.>
+Date:   Fri Nov 8 20:26:08 2024 +0800
+
+    This is the index file I add
+
+[33mcommit 982634c359a8447bf1af6a3b1ab68c566e3111ef[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: hottypotty_dev <93479007+hottypotty@users.noreply.github.com>
+Date:   Fri Nov 8 20:15:52 2024 +0800
+
+    Initial commit
